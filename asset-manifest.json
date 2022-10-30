@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aniruddhSocial/static/css/main.a6e705ca.css",
+    "main.js": "/aniruddhSocial/static/js/main.1c43211e.js",
+    "index.html": "/aniruddhSocial/index.html",
+    "main.a6e705ca.css.map": "/aniruddhSocial/static/css/main.a6e705ca.css.map",
+    "main.1c43211e.js.map": "/aniruddhSocial/static/js/main.1c43211e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e705ca.css",
+    "static/js/main.1c43211e.js"
+  ]
+}
