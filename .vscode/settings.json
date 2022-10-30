@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+
+    
+    },
+    "editor.definitionLinkOpensInPeek": false,
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "files.autoSave": "onFocusChange",
+     
+}
