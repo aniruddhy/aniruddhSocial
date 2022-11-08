@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/aniruddhSocial/static/css/main.a6e705ca.css",
-    "main.js": "/aniruddhSocial/static/js/main.1c43211e.js",
+    "main.css": "/aniruddhSocial/static/css/main.ecfb0196.css",
+    "main.js": "/aniruddhSocial/static/js/main.eec5b2e9.js",
+    "static/media/A.png": "/aniruddhSocial/static/media/A.f16bf44b5e32f90ffbae.png",
+    "static/media/5.jpg": "/aniruddhSocial/static/media/5.756977f1ee0ebc5579ae.jpg",
+    "static/media/6.jpg": "/aniruddhSocial/static/media/6.55f7adb7a103303bdfa8.jpg",
+    "static/media/10.jpg": "/aniruddhSocial/static/media/10.a9af6729ec1e1656e101.jpg",
+    "static/media/2.jpg": "/aniruddhSocial/static/media/2.ee1e735e3c580ea7a9cc.jpg",
+    "static/media/4.jpg": "/aniruddhSocial/static/media/4.17f522547fea7472fa1f.jpg",
+    "static/media/K.shivaan.jpg": "/aniruddhSocial/static/media/K.shivaan.2e10e37636bf2f403ffd.jpg",
+    "static/media/SUNDER.jpg": "/aniruddhSocial/static/media/SUNDER.d71817851361542ab1d3.jpg",
+    "static/media/ElonMusk.jpg": "/aniruddhSocial/static/media/ElonMusk.599d8a252c52dd287d5f.jpg",
     "index.html": "/aniruddhSocial/index.html",
-    "main.a6e705ca.css.map": "/aniruddhSocial/static/css/main.a6e705ca.css.map",
-    "main.1c43211e.js.map": "/aniruddhSocial/static/js/main.1c43211e.js.map"
+    "main.ecfb0196.css.map": "/aniruddhSocial/static/css/main.ecfb0196.css.map",
+    "main.eec5b2e9.js.map": "/aniruddhSocial/static/js/main.eec5b2e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6e705ca.css",
-    "static/js/main.1c43211e.js"
+    "static/css/main.ecfb0196.css",
+    "static/js/main.eec5b2e9.js"
   ]
 }
