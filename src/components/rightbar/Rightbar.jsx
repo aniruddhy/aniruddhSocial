@@ -13,7 +13,7 @@ function Rightbar({ profile }){
                 <span className="birthdayText">
                     <b>Pola Foster </b>and<b> 3 other friends </b>have a birthday today</span>
             </div>
-            <img src="/assets/Images/14.jpg" alt="ONE_GoupShip_Image" className="rightbarAdd" />
+            <img src={require('../../assets/Images/14.jpg')} alt="ONE_GoupShip_Image" className="rightbarAdd" />
              <h4 className="rightbarAddTittle">Online Friends</h4>
               <ul className="righbarFriendList"> 
 

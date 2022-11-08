@@ -1,9 +1,10 @@
-// import React from "react";
+ import React from "react";
 import './topbar.css';
 import { Search , Person,Chat,Notifications} from '@mui/icons-material';
 
 
 const Topbar=()=> {
+ 
     return(
  <div className='topbarcontainer'>
        <div className="topbarleft">
@@ -36,9 +37,14 @@ const Topbar=()=> {
         </div>
      
      <div className="imageGround">
-       <img src='/assets/Images/1.png' className='topbarImage'/>
+       <img alt="joke img " src={require("./aaa/A.png")} className='topbarImage'/>
        </div>
-       </div>   </div>
+       </div> 
+           </div>
+
+
+
     );
 }
+
 export default Topbar;

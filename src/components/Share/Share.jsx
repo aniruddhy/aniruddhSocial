@@ -6,7 +6,7 @@ return(
     <div className="share">
     <div className="shareWrapper">
         <div className="shareTop"> 
-        <img src="/assets/Images/2.jpg" alt="" className="shareProfileImg" />
+        <img src={require('../../assets/Images/2.jpg')} alt="" className="shareProfileImg" />
           <input type="" className="shareInput" 
           placeholder="what are in your mind ?"
            /> 
